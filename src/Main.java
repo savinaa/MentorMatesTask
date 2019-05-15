@@ -43,6 +43,7 @@ public class Main {
 
     }
 
+
     private static String reverseString(String leftHalf) {
         StringBuilder sb = new StringBuilder(leftHalf);
         sb.reverse();
